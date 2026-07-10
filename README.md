@@ -1,61 +1,64 @@
 <h1 align="center">Hi 👋, I'm Dinusha Sandakelum</h1>
-<h3 align="center">Aspiring Data Analyst | BSc in Mathematics & Statistics | Exploring Python, R, and Power BI for Data Insights</h3>
+<h3 align="center">Data Science Enthusiast | BSc in Mathematics & Statistics Graduate</h3>
+<p align="center"><em>Bridging the gap between rigorous statistical theory and modern data science tools.</em></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dinushass&label=Profile%20views&color=0e75b6&style=flat" alt="dinushass" /> </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
----
-
-- 🌱 I’m currently learning **Python, R, and Power BI to enhance my skills in data analysis and visualization as part of my BSc in Mathematics and Statistics at the University of Jaffna.**
-
-- 💬 Ask me about **Python, R, Power BI, Mathematics, Statistics, and Data Analysis.**
-
-- 📫 How to reach me **Email: dsandakelums@gmail.com LinkedIn: www.linkedin.com/in/dinusha-sandakelum-44b1aa2b6 GitHub: https://github.com/DinushaSS**
-
-- ⚡ Fun fact **I studied a social network analysis project in R, recreated it, and then modified it to explore new insights. It was exciting to see how small changes could reveal different patterns in the network!**
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=dinushass&label=Profile%20views&color=0e75b6&style=flat-square" alt="dinushass" /> 
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 💫 About Me
+
+I am a graduate in **Mathematics and Statistics** from the **University of Jaffna** and an avid **Data Science Enthusiast**. My academic background provides me with the strong analytical and statistical foundation needed to understand the mechanics behind machine learning algorithms and complex data models.
+
+- 🛠️ **Currently building:** Deepening my practical stack in **Python, R, SQL, and Power BI** to clean data, build models, and create interactive dashboards.
+- 🔬 **Featured Project:** I recently deep-dived into **Social Network Analysis** using R—recreating, modifying, and optimizing a network graph to uncover hidden structural patterns and community dynamics.
+- 💬 **Ask me about:** Statistical Modeling, Linear Regression, Hypothesis Testing, R/Python data manipulation, and Data Visualization.
+- 🎯 **Goal:** Applying my mathematical mindset to solve complex real-world problems through data science.
+
+---
+
+### 🛠️ Languages & Tech Stack
+
 <p align="left">
-<a href="https://www.linkedin.com/in/dinusha-sandakelum-44b1aa2b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinusha sandakelum" height="30" width="40" /></a>
-<a href="https://web.facebook.com/profile.php?id=100009359934145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinusha sandakelum" height="30" width="40" /></a>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  
+  <!-- Data Visualization & BI -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  
+  <!-- Tools & IDEs -->
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  
+  <!-- Design -->
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="VS Code" width="40" height="40"/> 
-  </a>  
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoffice.svg" alt="Microsoft Office" width="40" height="40"/> 
-  </a> 
-  </a> 
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" width="120" height="40"/> 
-  </a> 
-  <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" width="40" height="40"/> 
-  </a> 
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinushass&show_icons=true&locale=en&layout=compact&theme=gotham" alt="dinushass top langs" />
 </p>
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinushass&show_icons=true&locale=en&layout=compact" alt="dinushass" /></p>
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dinusha-sandakelum-44b1aa2b6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dsandakelums@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/DinushaSS">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
