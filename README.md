@@ -40,7 +40,7 @@ I am a graduate in **Mathematics and Statistics** from the **University of Jaffn
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinushass&show_icons=true&theme=gotham&hide_border=true" alt="dinushass github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinushass&theme=gotham&hide_border=true" alt="dinushass github streak" />
 </p>
 
 ---
